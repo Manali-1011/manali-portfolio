@@ -85,8 +85,8 @@ color: #7555c6;
     padding-right:10%
 }
 #profile {
-    width: 340px;
-    height: 340px;
+    width: 350px;
+    height: 350px;
     border-radius: 50%;
     border:5px solid #2a2438; 
     object-fit: cover;
@@ -134,7 +134,7 @@ color: #7555c6;
 .aboutme{
     text-align:center;
     color:black;
-    padding-top:50px;
+    padding-top:60px;
 }
 
 #aboutcenter{
@@ -147,7 +147,7 @@ color: #7555c6;
 
 
 .aboutpara{
-    padding-top:2%;
+    padding-top:1%;
     padding-left:15%;
     padding-right:15%;
     font-size: 20px;
